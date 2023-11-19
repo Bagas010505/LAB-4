@@ -1,5 +1,5 @@
 # LAB 4
-![gambar](namafile/namafoto.png)
+![gambar](Screenshot(100).png)
 
 
 
