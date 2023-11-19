@@ -1,5 +1,5 @@
 # LAB 4
-![gambar](Screenshot(100).png)
+![gambar](Screenshot(95).png)
 
 
 
