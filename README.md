@@ -1,17 +1,19 @@
 # LAB 4
 
-# praktikum
+# Praktikum
 ![gambar](dokumen/ss1.png)
-# output
+# Output
 ![gambar](dokumen/output1.png)
+# Flowchart
+#![gambar](dokumen/Flowchart.png)
 
-# latihan
+# Latihan
 ![gambar](dokumen/ss2.png)
-# output
+# Output
 ![gambar](dokumen/output2.png)
 
-# flowchart
-![gambar](dokumen/Flowchart.png)
+
+
 
 
 
