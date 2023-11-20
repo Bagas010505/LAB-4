@@ -1,5 +1,17 @@
 # LAB 4
-![gambar](Dokumen Bahasa Pemrograman Pertemuan Ke 9/ss1.png)
+
+# praktikum
+![gambar](dokumen/ss1.png)
+# output
+![gambar](dokumen/output1.png)
+
+# latihan
+![gambar](dokumen/ss2.png)
+# output
+![gambar](dokumen/output2.png)
+
+# flowchart
+![gambar](dokumen/Flowchart.png)
 
 
 
